@@ -1,9 +1,5 @@
 # Predicting Flash Drough occurances
 
-## Brief Report of the project
-
-[document](https://docs.google.com/document/d/1rbrjT-vF-lClRhaeBrKuKbsdqPtIpd2s/edit?usp=sharing&ouid=110632241842910477993&rtpof=true&sd=true)
-
 ## Getting Started
 
 - Clone this repository
